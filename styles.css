@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: radial-gradient(circle, rgba(85,85,85,1) 0%, rgba(17,17,17,1) 100%);
+  font-family: sans-serif;
+}
+
+main {
+  width: 100%;
+  height: auto;
+  min-height: 2000px;
+  padding-top: 5em;
+}
+
+h1 {
+  color: #fff;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+a {
+  color: #fff;
+}
